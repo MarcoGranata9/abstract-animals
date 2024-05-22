@@ -1,4 +1,4 @@
-package org.learning;
+package org.learning.animals;
 
 public class Passerotto extends Animale implements CanFly{
     private final static String GEN_NAME = "passerotto";

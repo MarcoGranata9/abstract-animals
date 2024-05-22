@@ -1,4 +1,4 @@
-package org.learning;
+package org.learning.animals;
 
 public class Delfino extends Animale implements CanSwim{
     private final static String GEN_NAME = "delfino";

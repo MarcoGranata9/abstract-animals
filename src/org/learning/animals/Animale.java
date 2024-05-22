@@ -1,4 +1,4 @@
-package org.learning;
+package org.learning.animals;
 
 public abstract class Animale {
     // Metodi

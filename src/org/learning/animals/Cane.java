@@ -1,4 +1,4 @@
-package org.learning;
+package org.learning.animals;
 
 public class Cane extends Animale implements CanSwim{
     // Costanti
