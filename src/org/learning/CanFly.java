@@ -1,2 +1,5 @@
-package org.learning;public interface CanFly {
+package org.learning;
+
+public interface CanFly {
+    void vola();
 }

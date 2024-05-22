@@ -1,2 +1,5 @@
-package org.learning;public interface CanSwim {
+package org.learning;
+
+public interface CanSwim {
+    void nuota();
 }
